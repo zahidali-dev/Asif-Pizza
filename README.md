@@ -40,6 +40,6 @@ Check the live project here: [Asif Pizza Live Demo](https://zahidali-dev.github.
 
 ## 💻 How to Run Locally
 
-1. Clone this repository:  
-```bash
-git clone https://github.com/zahidali-dev/Asif-Pizza.git
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/zahidali-dev/Asif-Pizza.git
